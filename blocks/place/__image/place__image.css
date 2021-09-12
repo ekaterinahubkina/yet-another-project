@@ -1,7 +1,6 @@
 .place__image {
     max-width: 460px;
-    grid-area: image;
-   
+    grid-area: image; 
 }
 
 @media screen and (max-width: 1279px) {
@@ -19,11 +18,6 @@
 @media screen and (max-width: 767px) {
     .place__image {
         max-width: 320px;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .place__image {
         margin: auto;
     }
 }

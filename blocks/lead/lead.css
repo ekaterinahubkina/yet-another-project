@@ -1,15 +1,15 @@
 .lead {
-    width: 76%;
+    width: 76.8%;
     margin: auto;
 }
 
-@media screen and (max-width: 1024px) and (min-width: 769px)  {
+@media screen and (max-width: 1279px) {
     .lead {
-        width: 90%;
+        width: 90.6%;
     }  
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .lead {
         width: 100%;
     }
