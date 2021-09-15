@@ -2,8 +2,16 @@
     padding-bottom: 6px;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
     margin: 0;
     padding: 0;
     min-width: 77px;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-links {
+        padding-bottom: 8px;
+        min-width: 62px;
+    }
+    
 }

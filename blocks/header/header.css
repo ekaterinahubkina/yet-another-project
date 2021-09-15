@@ -4,6 +4,7 @@
     align-items: flex-end;
     margin: auto;
     width: 92.5%;
+    max-width: 1184px;
     min-height: 52px;
     padding-top: 28px;
 }
