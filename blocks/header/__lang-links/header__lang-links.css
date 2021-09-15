@@ -1,3 +1,9 @@
 .header__lang-links {
     padding-bottom: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 0;
+    padding: 0;
+    min-width: 77px;
 }

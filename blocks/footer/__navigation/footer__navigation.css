@@ -5,7 +5,7 @@
 @media screen and (max-width: 767px) {
     .footer__navigation {
         flex-direction: column;
-        
+        margin-bottom: 48px;
     }
     
 }
